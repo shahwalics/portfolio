@@ -1,0 +1,8 @@
+{
+  "name": "Shahwali's Portfolio",
+  "description": "A professional portfolio for Shahwali, a software developer specializing in Vue.js, React, Laravel, and Webflow.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}

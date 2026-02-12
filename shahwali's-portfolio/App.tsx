@@ -1,0 +1,1 @@
+// Deprecated React entry point. Application has migrated to Vue 3 (App.vue).
